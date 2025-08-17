@@ -6,4 +6,4 @@ Progress:
 - went to https://dune.com/getlucky23/98-wallets-dashboard
 - clicked "Git - Set up a git repo for your dashboard"
 - nothing appeared in repository
-- 
+- checking dune and git documentation, maybe won't add anything for now
